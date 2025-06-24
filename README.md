@@ -52,7 +52,6 @@ No external libraries needed — built with pure Python!
 
 ## ▶️ How to Run
 
-```bash
 # Clone this repository or copy the script
 git clone https://github.com/your-username/bmi-calculator.git
 cd bmi-calculator
@@ -62,7 +61,6 @@ python bmi_calculator.py
 
 ## 🖥️ Example Output (CLI)
 
-```bash
 👋 Welcome to the BMI Calculator!
 
  ⚖️ Enter your weight in Kilograms: 68
