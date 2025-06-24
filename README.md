@@ -53,8 +53,7 @@ No external libraries needed — built with pure Python!
 ## ▶️ How to Run
 
 # Clone this repository or copy the script
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
+git clone https://github.com/AkshayaMahajan12/Python-BMI-Calculator-CLI-version-
 
 # Run the script
 python bmi_calculator.py
